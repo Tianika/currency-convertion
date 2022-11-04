@@ -1,0 +1,23 @@
+@import url('../../../styles/variables');
+
+.header {
+  font-size: var(--base-font-size);
+  background-color: var(--base-color);
+  color: var(--light-font);
+  min-height: 50px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  list-style: none;
+}
+
+.link:hover {
+  color: lightgreen;
+}
+
+.active {
+  text-decoration: underline;
+}

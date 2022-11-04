@@ -1,0 +1,28 @@
+.title {
+  margin-bottom: 20px;
+}
+
+.request {
+  min-width: 320px;
+  width: 50%;
+  padding: 3px 10px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button {
+  visibility: hidden;
+}
+
+.error {
+  color: var(--error-text);
+}
+
+.currency {
+  display: inline-block;
+  padding: 10px;
+}

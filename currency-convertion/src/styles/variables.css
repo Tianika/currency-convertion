@@ -1,0 +1,8 @@
+:root {
+  --base-color: #008d7a;
+  --base-hover-color: rgb(145, 240, 145);
+  --light-font: #ffffff;
+  --dark-font: #111111;
+  --error-text: rgb(223, 0, 0);
+  --base-font-size: 20px;
+}
